@@ -5,6 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its_leeods/)
 
 ![lSlasherrl GitHub stats](https://github-readme-stats.vercel.app/api?username=lslasherrl&show_icons=true&theme=tokyonight)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lslasherrl&layout=compact)](https://github.com/lslasherrl/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia a dia
