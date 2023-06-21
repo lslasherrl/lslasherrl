@@ -21,4 +21,4 @@
   <img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div><br/> 
 
-Sempre busco saber afundo meus gostos não para ser um expert e contar vantagem e sim saber o que dizer e me portar quando perguntado, então ao meus 12 anos fui para o mundo dos computadores e assim começou a paixão pelo T.I abrindo computadores e resolvendo problemas de familiares com seus equipamentos eletrônicos, claro que fazia de tudo o que estava ao meu alcance, com essas experiências me dediquei a esta área após sair do Exercito afim de fazer o que gosto e assim veio minha paixão a parte de Hardware como técnico T.I (desde pequeno já gostava de fuçar) e na faculdade a parte de Dev Front-End. 💻
+Olá meu nome é Leonardo, estou no 5° Período do meu curso de Ciências da Computação e estou em busca de uma vaga com Desenvolvedor Front End. seja estagio ou Dev. Junior
